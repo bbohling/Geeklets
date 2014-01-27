@@ -14,4 +14,4 @@ Currently provides 2014 data:
 * Calories
 * Moving Time
 
-![](https://www.dropbox.com/s/p501mu7rpnvj327/StraveGeeklet.png)
+![](https://github.com/bbohling/Geeklets/StraveGeeklet.png)
